@@ -13,7 +13,7 @@ Meu nome é **Henriquy**, mas geralmente me chamam de **Henry**. Tenho **17 anos
 ## Linguagens:
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryzitos&hide_progress=true&layout=compact&theme=github_dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquydta&hide_progress=true&layout=compact&theme=github_dark)
   
 </div>
 
@@ -51,9 +51,9 @@ Meu nome é **Henriquy**, mas geralmente me chamam de **Henry**. Tenho **17 anos
 ## Stats :)
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryzitos&hide=stars,issues&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquydta&hide=stars,issues&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryzitos&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquydta&layout=compact&theme=github_dark)
 
 </div>
 
