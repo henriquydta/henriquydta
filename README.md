@@ -58,7 +58,7 @@ Exit code: 0
 ## Stats
 <div align="center">
   <img src="https://personal-stats-henry.vercel.app/api?username=henriquydta&theme=onedark&layout=compact"/>
-
+  <br>
   <img src="https://personal-stats-henry.vercel.app/api/top-langs/?username=henriquydta&theme=onedark&layout=compact&langs_count=20"/>
 </div>
 
